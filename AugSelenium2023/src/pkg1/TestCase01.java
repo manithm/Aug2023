@@ -14,7 +14,8 @@ public class TestCase01 {
 		
 		TestCase01 obj1=new TestCase01();
 		System.out.println(obj1.b); 
-		
+		obj1.b=300;
+		System.out.println(obj1.b);
 		
 		
 	}
